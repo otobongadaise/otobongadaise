@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @otobongadaise
 - 👨🏽‍💼 I'm an accountant, a financial and business analyst, a writer, a virtual assistant, and more... 
-- 👀 I’m interested in Coding, Python, JavaScript, React, UX/UI Design, etc
-- 🌱 I’m currently learning UX/UI Design, Javascript, SQL, Data Analysis, Python...
-- 💞️ I’m looking to collaborate on App Development, JavaScript, 
+- 👀 I’m interested in Front-end, Back-end, Python, React, UX/UI Design, etc
+- 🌱 I’m currently learning UX/UI Design, Front-end, SQL, Data Analysis, Python, Software Engineering...
+- 💞️ I’m looking to collaborate on AppDev, WebDev, DevOps, etc. 
 - 📫 How to reach me:
 Twitter - @otee4short
 Telegram - @callmeotee
